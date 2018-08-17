@@ -12,7 +12,7 @@ class App extends Component {
     borderStatus: 5px;
     border: none;
     outline: none;
-    
+
   render() {
     return (
       <div className="App">
